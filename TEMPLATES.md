@@ -111,7 +111,7 @@ Add your entry to the `UNITS` array and make sure your country is in the `COUNTR
 
 ---
 
-## 2. Military Vehicles & Equipment (`vehicles-db.js`)
+## 2. Military Vehicles & Equipment (`vehicles-data.js`)
 
 Add to the `VEHICLES` array.
 
